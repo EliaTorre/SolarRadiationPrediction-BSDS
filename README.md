@@ -1,4 +1,4 @@
-# Solar-Radiation-Prediction
+# Solar Radiation Prediction
 
 Project developed alongside Edoardo Botta and Marco Antonioli for the Hackathon of the Bocconi Students for Data Science.
 
