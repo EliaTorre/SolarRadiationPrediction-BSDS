@@ -1,6 +1,14 @@
-# Solar Radiation Prediction
+<h1 align="center">
+Solar Radiation Prediction</h1>
 
-Project developed alongside Edoardo Botta and Marco Antonioli for the Hackathon of the Bocconi Students for Data Science.
+<div align="center">
+  <a href="https://www.linkedin.com/in/eliatorre/">Elia Torre</a>
+  <a href="https://www.linkedin.com/in/edoardobotta/">Edoardo Botta</a>
+  <a href="https://www.linkedin.com/in/marco-antonioli/">Marco Antonioli</a>
+  <p><a href="https://datascience.ucsd.edu/">Bocconi Institute for Data Science and Analytics</a>, Bocconi University, Milan, Italy</p>
+</div>
+
+Project developed alongside Edoardo Botta and Marco Antonioli for the Hackathon of the Bocconi Students for Data Science (BSDS).
 
 The original dataset was released as part of a task for NASA Hackathon and can be retrieved from [kaggle.com](https://www.kaggle.com/dronio/SolarEnergy).
 The dataset is related to the level of solar radiation on earth registered from 11/9/2016 to 31/12/2016. 
