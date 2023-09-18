@@ -2,8 +2,8 @@
 Solar Radiation Prediction</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/eliatorre/">Elia Torre</a>
-  <a href="https://www.linkedin.com/in/edoardobotta/">Edoardo Botta</a>
+  <a href="https://www.linkedin.com/in/eliatorre/">Elia Torre</a>,
+  <a href="https://www.linkedin.com/in/edoardobotta/">Edoardo Botta</a>,
   <a href="https://www.linkedin.com/in/marco-antonioli/">Marco Antonioli</a>
   <p><a href="https://datascience.ucsd.edu/">Bocconi Institute for Data Science and Analytics</a>, Bocconi University, Milan, Italy</p>
 </div>
