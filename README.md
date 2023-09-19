@@ -8,6 +8,8 @@ Solar Radiation Prediction</h1>
   <p><a href="https://bidsa.unibocconi.eu">Bocconi Institute for Data Science and Analytics</a>, Bocconi University, Milan, Italy</p>
 </div>
 
+</hr>
+
 Project developed alongside Edoardo Botta and Marco Antonioli for the Hackathon of the Bocconi Students for Data Science (BSDS).
 
 The original dataset was released as part of a task for NASA Hackathon and can be retrieved from [kaggle.com](https://www.kaggle.com/dronio/SolarEnergy).
