@@ -8,7 +8,7 @@ Solar Radiation Prediction</h1>
   <p><a href="https://bidsa.unibocconi.eu">Bocconi Institute for Data Science and Analytics</a>, Bocconi University, Milan, Italy</p>
 </div>
 
-</hr>
+<hr/>
 
 Project developed alongside Edoardo Botta and Marco Antonioli for the Hackathon of the Bocconi Students for Data Science (BSDS).
 
